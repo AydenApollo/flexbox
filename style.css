@@ -1,0 +1,138 @@
+
+.whole{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 300px;
+    border-style: solid;
+}
+@media only screen and (max-width: 500px) and (max-height: 400px){
+.flexbox{
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+}
+}
+.one{
+    min-height: 20px;
+    min-width: 50px;
+    border-style: solid;
+    background-color: yellow;
+}
+.two{
+    min-height: 50px;
+    min-width: 30px;
+    border-style: solid;
+}
+.three{
+    min-height: 60px;
+    min-width: 20px;
+    border-style: solid;
+}
+.four{
+    min-height: 50px;
+    min-width: 50px;
+    border-style: solid;
+    background-color: red;
+}
+.five{
+    min-height: 40px;
+    min-width: 70px;
+    border-style: solid;
+    border-style: solid;
+}
+.six{
+    min-height: 70px;
+    min-width: 20px;
+    border-style: solid;
+    border-style: solid;
+}
+.seven{
+    min-height: 10px;
+    min-width: 80px;
+    border-style: solid;
+    background-color: black;
+}
+.eight{
+    min-height: 50px;
+    min-width: 50px;
+    border-style: solid;
+}
+.nine{
+    min-height: 40px;
+    min-width: 50px;
+    border-style: solid;
+}
+.ten{
+    min-height: 30px;
+    min-width: 60px;
+    border-style: solid;
+    background-color: yellow;
+}
+.eleven{
+    min-height: 30px;
+    min-width: 50px;
+    border-style: solid;
+}
+.twelve{
+    min-height: 20px;
+    min-width: 50px;
+    border-style: solid;
+    background-color: yellow;
+}
+.thirteen{
+    min-height: 50px;
+    min-width: 30px;
+    border-style: solid;
+    background-color: yellow;  
+}
+.fourteen{
+    min-height: 50px;
+    min-width: 20px;
+    border-style: solid;
+}
+.fifteen{
+    min-height: 60px;
+    min-width: 60px;
+    border-style: solid;
+}
+.sixteen{
+    min-height: 70px;
+    min-width: 90px;
+    border-style: solid;
+}
+.seventeen{
+    min-height: 60px;
+    min-width: 10px;
+    border-style: solid;
+    background-color: blue;
+}
+.eighteen{
+    min-height: 50px;
+    min-width: 10px;
+    border-style: solid;
+    background-color: red;
+}
+.nineten{
+    min-height: 30px;
+    min-width: 90px;
+    border-style: solid;
+    background-color: blue;
+}
+.twenty{
+    min-height: 60px;
+    min-width: 50px;
+    border-style: solid;
+    background-color: red;
+}
+.twentyone{
+    min-height: 10px;
+    min-width: 90px;
+    border-style: solid;
+}
+.twentytwo{
+    min-height: 50px;
+    min-width: 50px;
+    border-style: solid;
+}
